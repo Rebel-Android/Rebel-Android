@@ -40,7 +40,7 @@ I enjoy designing practical engineering solutions that combine electrical engine
 -  Python (automation systems, monitoring platforms, Telegram bots);
 -  PHP (web backend maintenance and customization);
 -  JavaScript (web interfaces and client-side logic);
-      -  HTML/CSS (web interfaces and client-side logic);
+-  HTML/CSS (web interfaces and client-side logic);
 ### Embedded Platforms
 -  ESP32;
 -  Arduino;
