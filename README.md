@@ -85,6 +85,7 @@ It is about understanding physical processes, building reliable systems and crea
 ## Education
 Master's Degree in Electrical Engineering
 Kremenchuk Mykhailo Ostrohradskyi State Polytechnic University
+
 Specialization: Electromechanical Systems for Industrial and Energy Applications
 
 ## Contact
