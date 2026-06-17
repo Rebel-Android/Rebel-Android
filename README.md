@@ -2,7 +2,7 @@ Hi there, I'm Andrew Popravka 👋
 ## About Me
 Electrical & Automation Engineer with practical experience in power systems, relay protection, commissioning, industrial automation and embedded systems development. Focused on building reliable monitoring, control and automation solutions for real-world applications.
 ## Key Competencies
-      -  Relay Protection & Automation (RPA);
+-  Relay Protection & Automation (RPA);
 -  High-Voltage Equipment and Power Systems;
 -  Industrial Automation and Process Control;
 -  Instrumentation & Control Systems (I&C);
